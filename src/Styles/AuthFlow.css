@@ -1,0 +1,12 @@
+.authflow-container {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f7f7f7;
+  }
+  
+  .authflow-container .MuiTypography-root {
+    margin-bottom: 10px;
+  }
+  
